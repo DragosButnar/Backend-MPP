@@ -1,0 +1,13 @@
+Action
+Comedy
+Crime
+Romance
+Horror
+Drama
+Fantasy
+Historical
+SF
+Thriller
+Western
+Family
+Holiday
